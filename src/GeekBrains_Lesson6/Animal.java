@@ -1,6 +1,6 @@
 package GeekBrains_Lesson6;
 
-public class Animal {
+public abstract class Animal {
     private String name;
     private int length;
 
